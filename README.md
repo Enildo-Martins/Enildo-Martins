@@ -1,7 +1,11 @@
-👋 Hi, I'm Enildo Martins de Oliveira Filho
+👋 Hi, I'm Enildo Martins de Oliveira Filho 
+
 👀 I'm interested in software development and programming.
+
 🌱 I'm currently learning and enhancing my skills in programming and software engineering.
+
 💞️ I'm looking to collaborate on projects related to software development, coding, and technology.
+
 📫 You can reach me through the following ways:
 Email: [enildooliveira1@gmail.com]
 LinkedIn: [www.linkedin.com/in/enildo-martins] 
