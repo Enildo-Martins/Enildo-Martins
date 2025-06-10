@@ -4,7 +4,7 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-Sou um desenvolvedor full-stack com foco em soluções eficientes, organizadas e escaláveis. Tenho experiência em <strong>Python, Node, React, TypeScript, JavaScript, HTML, CSS e FireBase</strong>. <br>
+Sou um desenvolvedor full-stack com foco em soluções eficientes, organizadas e escaláveis. Tenho experiência em <strong>Python, Node, React, TypeScript, JavaScript, HTML, CSS, PostgreSQL e Firebase</strong>. <br>
 Me destaco pela facilidade em aprender novas tecnologias, atenção aos detalhes e colaboração em equipe.
 </p>
 
