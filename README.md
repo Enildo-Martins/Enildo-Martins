@@ -32,6 +32,6 @@ Me destaco pela facilidade em aprender novas tecnologias, atenção aos detalhes
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enildo-Martins&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enildo-Martins&layout=compact&theme=dark" width="36.7%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Enildo-Martins&show_icons=true&theme=dark" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enildo-Martins&layout=compact&theme=dark" width="42%"/>
 </p>
